@@ -1,4 +1,4 @@
-# THIS REPOSITORY IS SUPERCEEDED BY [](https://github.com/arrowhead-f/client-library-python), USE IT INSTEAD
+# THIS REPOSITORY IS SUPERCEEDED BY [https://github.com/arrowhead-f/client-library-python](https://github.com/arrowhead-f/client-library-python), USE IT INSTEAD
 
 # ARROWHEAD CLIENT PYTHON LIBRARY
 This is a library for the creation of client service providers and consumer for the [Arrowhead Framework](www.arrowhead.eu), a service-oriented framework for industrial automation.
